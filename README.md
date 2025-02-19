@@ -1,8 +1,8 @@
-# Sync Code: Realtime Collaborative Code Editor
+# CollabCode: Multi-User Code Editor
 
 ## Introduction
 
-Are you tired of sending code snippets back and forth, struggling to debug and collaborate with your team? Look no further! **Sync Code** is here to revolutionize the way you code together. This powerful and intuitive collaborative code editor is designed to empower developers, and teams to work seamlessly in real-time, regardless of their location. With **Sync Code**, you can code together, debug together, and ship faster, together.
+Are you tired of sending code snippets back and forth, struggling to debug and collaborate with your team? Look no further! CollabCode is here to transform the way developers work together. This powerful and intuitive multi-user code editor enables seamless, real-time collaboration, making pair programming and debugging more efficient than ever. Whether your team is remote or in-office, CollabCode ensures smooth coding, instant feedback, and faster project delivery. With CollabCode, you can code together, debug together, and ship faster—together!
 
 ## Features
 
@@ -135,5 +135,5 @@ I am Mohd Mohitur Rahaman, a tech geek, currently pursuing a Master's in Compute
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/mohitur02/)
-- [GitHub](https://www.github.com/Mohitur669/)
+- [LinkedIn](https://www.linkedin.com/in/usha-devi-830460215/)
+
